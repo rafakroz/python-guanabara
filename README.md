@@ -1,2 +1,2 @@
-# python-guanabara
-Curso em Vídeo - Python
+# CURSO YOUTUBE
+<h2>💻 Curso em Vídeo (You Tube) - Python</h2>

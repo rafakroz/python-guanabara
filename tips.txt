@@ -1,0 +1,16 @@
+Aula 07
+Ordem de precedência:
+1: ()
+2: **
+3: * / // %
+4: + -
+
+Formatar conteúdo após os :
+{nome:>20}
+
+Definir que não haverá quebra de linha
+print('Texto do print 1', end=' ')
+print('Texto do print 2.')
+
+Quebrar linha com \n
+print('Texto com \n algumas quebras de \n linha.')

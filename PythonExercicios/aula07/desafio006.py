@@ -9,4 +9,4 @@ raiz = num ** 0.5
 
 print(f'O dobro de {num} é: {dobro}')
 print(f'O triplo de {num} é: {triplo}')
-print(f'A raiz quadrada de {num} é: {raiz}')
+print(f'A raiz quadrada de {num} é: {raiz:.2f}')

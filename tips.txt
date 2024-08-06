@@ -52,9 +52,12 @@ frase.count('o')
 * Contar com intervalo inicial e final da string
 frase.count('o', 0, 13)
 
-* Procurar por uma string na string. E resultado será o caracter inicial do resultado
+* Procurar por uma string na string a partir da esquerda. E resultado será o caracter inicial do resultado
 * Caso não ache a string, o resultado será -1
 frase.find('deo')
+
+* Procurar por uma string na string a partir da direita.
+frase.rfind('deo')
 
 * Procura pela string e caso ache vai indicar 'True", caso não 'False'
 'Curso' in frase

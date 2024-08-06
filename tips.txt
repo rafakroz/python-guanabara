@@ -123,3 +123,13 @@ C u r s o - e m - V  í  d  e  o -  P  y  t  h  o  n
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* Inserindo uma string longa, com quebra de linhas, entre 3 """xxxxxx xxx""", a string será exibida
+da forma como foi "colada".
+
+print("""Maecenas ipsum ante, pellentesque non dolor aliquet, sodales molestie magna.
+Suspendisse tempus mauris id nulla faucibus, nec fermentum diam varius.
+Ut pellentesque nibh quam. Nullam nec ex dignissim, convallis dui sit amet, aliquam magna.
+Sed auctor lacus et porttitor luctus. Integer ullamcorper consequat lorem quis mollis. Quisque non ultricies est.
+Proin faucibus tempor mauris at viverra. Maecenas quis mollis mauris.
+Vivamus et libero mollis, tincidunt elit ac, elementum dolor.""")

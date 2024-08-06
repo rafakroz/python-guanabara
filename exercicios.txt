@@ -53,10 +53,38 @@ Desafio 020
 Desafio 021
 # Faça um programa em Python que abra e reproduza um áudio de um arquivo mp3.
 
-Desafio 0
-Desafio 0
-Desafio 0
-Desafio 0
-Desafio 0
-Desafio 0
+Desafio 022
+# Crie um programa que leia o nome completo de uma e mostre:
+# O nome com todas as letras em upper
+# O nome com todas as letras em lower
+# Quantas letras ao todo (sem considerar espaços)
+# Quantas letras tem o primeiro nome
+
+Desafio 023
+# Faça um programa que leia um número de 0 a 9999 e mostre na cada um dos dígitos separados.
+# Exemplo: Digite um número: 1834
+# unidade: 4
+# dezena: 3
+# centena: 8
+# milhar: 1
+
+Desafio 024
+# Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome 'SANTO'
+
+Desafio 025
+# Crie um programa que leia o nome de uma pessoa e diga se ela tem 'SILVA' no nome.
+
+Desafio 026
+# Faça um programa que leia uma frase pelo teclado e mostre:
+# Quantas vezes aparece a letra 'A'.
+# Em que posição ela aparece a primeira vezes
+# Em que posição ela aparece a última vez
+
+Desafio 027
+# Faça um programa que leia o nome de uma pessoa, mostrando em seguida
+# o primeiro e o último nome separadamente.
+# Exemplo: Ana Maria de Souza
+# primeiro: Ana
+# segundo: Souza
+
 Desafio 0

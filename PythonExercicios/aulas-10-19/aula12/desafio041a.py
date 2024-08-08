@@ -10,25 +10,25 @@
 
 from datetime import date
 
-estilo = {'limpa':        '\033[m',
-          'negrito':      '\033[1m',
-          'amarelo':      '\033[33m',
-          'amareloBold':  '\033[1;33m',
-          'azul':         '\033[34m',
-          'azulBold':     '\033[1;34m',
-          'cinza':        '\033[37m',
-          'cinzaBold':    '\033[1;37m',
-          'roxo':     '\033[35m',
-          'roxoBold': '\033[1;35m',
-          'verde':        '\033[32m',
-          'verdeBold':    '\033[1;32m',
-          'vermelho':     '\033[31m',
-          'vermelhoBold': '\033[1;31m',
-          'pretoebranco': '\033[7;30m'}
+estilo = {'clear':        '\033[m',
+          'bold':      '\033[1m',
+          'blue':         '\033[34m',
+          'blueBold':     '\033[1;34m',
+          'green':        '\033[32m',
+          'greenBold':    '\033[1;32m',
+          'grey':        '\033[37m',
+          'greyBold':    '\033[1;37m',
+          'purple':     '\033[35m',
+          'purpleBold': '\033[1;35m',
+          'red':     '\033[31m',
+          'redBold': '\033[1;31m',
+          'yellow':      '\033[33m',
+          'yellowBold':  '\033[1;33m',
+          'blackWhite': '\033[7;30m'}
 
 asteriscos = 60
 
-print(f'{estilo["cinza"]}*{estilo["limpa"]}' * asteriscos)
+print(f'{estilo["grey"]}*{estilo["clear"]}' * asteriscos)
 
 nome = str(input('Nome do aluno: ')).strip()
 anoNasc = int(input('Ano de nascimento: '))
@@ -40,36 +40,36 @@ idade = anoAtual - anoNasc
 print(f'''
 ===========================
 = \033[7m     \033[1mFAIXAS ETÁRIAS    \033[m =
-=  {estilo["roxoBold"]}Até 9 anos: MIRIM{estilo["limpa"]}      =
-=  {estilo["amareloBold"]}Até 14 anos: INFANTIL{estilo["limpa"]}  =
-=  {estilo["azulBold"]}Até 19 anos: JUNIOR{estilo["limpa"]}    =
-=  {estilo["verdeBold"]}Até 20 anos: SÊNIOR{estilo["limpa"]}    =
-=  {estilo["vermelhoBold"]}Acima: MASTER{estilo["limpa"]}          =
+=  {estilo["purpleBold"]}Até 9 anos: MIRIM{estilo["clear"]}      =
+=  {estilo["yellowBold"]}Até 14 anos: INFANTIL{estilo["clear"]}  =
+=  {estilo["blueBold"]}Até 19 anos: JUNIOR{estilo["clear"]}    =
+=  {estilo["greenBold"]}Até 20 anos: SÊNIOR{estilo["clear"]}    =
+=  {estilo["redBold"]}Acima: MASTER{estilo["clear"]}          =
 ===========================
 ''')
 
-print(f'{estilo["cinza"]}*{estilo["limpa"]}' * asteriscos)
+print(f'{estilo["grey"]}*{estilo["clear"]}' * asteriscos)
 
-print(f'{estilo["azulBold"]}Aluno: {nome}{estilo["limpa"]}')
+print(f'{estilo["blueBold"]}Aluno: {nome}{estilo["clear"]}')
 print(f'Ano de Nascimento: {anoNasc}')
 
 if anoNasc > anoAtual:
-    print(f'{estilo["vermelhoBold"]}Erro! Insira um abaixo do atual!{estilo["limpa"]}')
+    print(f'{estilo["redBold"]}Erro! Insira um ano abaixo do atual!{estilo["clear"]}')
 else:
     if idade <= 9:
-        print(f'Idade: {estilo["roxoBold"]}{idade}{estilo["limpa"]}')
-        print(f'Categoria: {estilo["roxoBold"]}MIRIM{estilo["limpa"]}')
+        print(f'Idade: {estilo["purpleBold"]}{idade}{estilo["clear"]}')
+        print(f'Categoria: {estilo["purpleBold"]}MIRIM{estilo["clear"]}')
     elif 10 <= idade <= 14:
-        print(f'Idade: {estilo["amareloBold"]}{idade}{estilo["limpa"]}')
-        print(f'Categoria: {estilo["amareloBold"]}INTANTIL{estilo["limpa"]}')
+        print(f'Idade: {estilo["yellowBold"]}{idade}{estilo["clear"]}')
+        print(f'Categoria: {estilo["yellowBold"]}INTANTIL{estilo["clear"]}')
     elif 15 <= idade <= 19:
-        print(f'Idade: {estilo["azulBold"]}{idade}{estilo["limpa"]}')
-        print(f'Categoria: {estilo["azulBold"]}JUNIOR{estilo["limpa"]}')
+        print(f'Idade: {estilo["blueBold"]}{idade}{estilo["clear"]}')
+        print(f'Categoria: {estilo["blueBold"]}JUNIOR{estilo["clear"]}')
     elif 20 <= idade <= 25:
-        print(f'Idade: {estilo["verdeBold"]}{idade}{estilo["limpa"]}')
-        print(f'Categoria: {estilo["verdeBold"]}SÊNIOR{estilo["limpa"]}')
+        print(f'Idade: {estilo["greenBold"]}{idade}{estilo["clear"]}')
+        print(f'Categoria: {estilo["greenBold"]}SÊNIOR{estilo["clear"]}')
     elif idade > 25:
-        print(f'Idade: {estilo["vermelhoBold"]}{idade}{estilo["limpa"]}')
-        print(f'Categoria: {estilo["vermelhoBold"]}MASTER{estilo["limpa"]}')
+        print(f'Idade: {estilo["redBold"]}{idade}{estilo["clear"]}')
+        print(f'Categoria: {estilo["redBold"]}MASTER{estilo["clear"]}')
 
-print(f'{estilo["cinza"]}*{estilo["limpa"]}' * asteriscos)
+print(f'{estilo["grey"]}*{estilo["clear"]}' * asteriscos)

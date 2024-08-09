@@ -170,4 +170,19 @@ Background
 47 Cinza
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Curso Python #013 - Estrutura de repetição for
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* O range define o intervalo que o FOR vai realizar a iteração. No entanto, ele para antes do valor final.
+for c in range(0, 6)
+
+* O terceiro digito, define o incremento. No exemplo, vai aumentar de 2 em 2
+for c in range(0, 6, 2)
+
+* Para decremento, é definido o ponto de partida, até o valor de interesse e o valor de decréscimo.
+for c in range(6, 0, -1)
+
+* Na estrutura, o c [pode ser qualquer coisa] é o contador, que se incrementa/decrementa a cada passo.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

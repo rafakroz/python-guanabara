@@ -245,6 +245,101 @@ Aula 12
 # Crie um programa que faça o computador jojar Jokenpô com você.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Aula 13 Estrutura de repetição for
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Aula 13
+# Desafio 046
+# Exercício 13.1
+# Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício,
+# indo de 10 até 0, com uma pausa de 1 segundo entre eles.
+
+# Aula 13
+# Desafio 047
+# Exercício 13.2
+# Crie um programa que mostre na tela todos os números pares que estão no intervalo de 1 e 50.
+
+# Aula 13
+# Desafio 048
+# Exercício 13.3
+# Faça um programa que calcule a soma entre todos os números impares que são múltiplos de três
+# e que se encontram no intervalo de 1 até 500.
+
+# Aula 13
+# Desafio 049
+# Exercício 13.4
+# Refaça o Desafio 009 / ex009, mostrando a tabuada de um número que o usuário escolher,
+# só que agora utilizando um laço for.
+
+# Aula 13
+# Desafio 050
+# Exercício 13.5
+# Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares.
+# Se o valor digitado for ímpar, desconsidere-o.
+
+# Aula 13
+# Desafio 051
+# Exercício 13.6
+# Desenvolva um programa que leia o primeiro termo e a razão de uma Progressão Aritmétrica.
+# No final, mostre os 10 primeiros termos dessa progressão.
+
+# Aula 13
+# Desafio 052
+# Exercício 13.7
+# Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
+
+# Aula 13
+# Desafio 053
+# Exercício 13.8
+# Crie um programa que leia uma frase qualquer e diga se ela é um palindromo, desconsiderando os espaços.
+# Desconsiderar acentos também.
+# Palindromo: frases que podem ser lidas de trás para frente e formam a mesma frase.
+# Exemplos:
+# Após a sopa
+# A sacada da casa
+# A torre da derrota
+# O lobo ama o bolo
+# Anotaram a data da maratona
+
+# Aula 13
+# Desafio 054
+# Exercício 13.9
+# Crie um programa que leia o ano de nascimento de sete pessoas.
+# No final, mostre quantas ainda não atingiram a maioridade [21 anos] e quantas já são maiores.
+
+# Aula 13
+# Desafio 055
+# Exercício 13.10
+# Faça um programa que leia o peso de cinco pessoas. No final, mostre qual foi
+# o maior e o menor peso lidos.
+
+# Aula 13
+# Desafio 056
+# Exercício 13.11
+# Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. NO final do programa, mostre:
+# A média de idade do grupo.
+# Qual é o nome do homem mais velho.
+# Quantas mulheres tem menos de 20 anos.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Aula 14
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Aula 14
+# Desafio 0
+#
+#
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Aula 15
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Aula 15
+# Desafio 0
+#
+#
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Aula 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

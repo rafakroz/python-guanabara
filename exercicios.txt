@@ -316,7 +316,7 @@ Aula 13 Estrutura de repetição for
 # Aula 13
 # Desafio 056
 # Exercício 13.11
-# Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. NO final do programa, mostre:
+# Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre:
 # A média de idade do grupo.
 # Qual é o nome do homem mais velho.
 # Quantas mulheres tem menos de 20 anos.

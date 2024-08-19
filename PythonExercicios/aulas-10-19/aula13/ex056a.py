@@ -61,11 +61,16 @@ media = totalIdade / pessoa
 
 print(f'A média de idade do grupo é {media} anos.')
 
-print(f'{nomeMaisVelho} é o homem mais velho com {idademaisVelho} de idade.')
-
-if totalMulheres20 == 1:
-    print(f'Na lista, apenas {nomeMulher} tem menos de 20 anos.')
+if idademaisVelho == 0:
+    print(f'Não há homens na lista.')
 else:
-    print(f'O total de mulheres com menos de 20 anos é de {totalMulheres20}')
+    print(f'{nomeMaisVelho} é o homem mais velho com {idademaisVelho} de idade.')
+
+if totalMulheres20 == 0:
+    print(f'Não há mulheres com menos de 20 anos de idade.')
+elif totalMulheres20 == 1:
+    print(f'Na lista, apenas {nomeMulher} tem menos de 20 anos de idade.')
+else:
+    print(f'O total de mulheres com menos de 20 anos de idade é de {totalMulheres20}')
 
 print(f'*' * asteriscos) # --------------------------------------

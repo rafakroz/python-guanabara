@@ -359,14 +359,14 @@ Aula 14 - Mundo 2
 # Aula 14
 # Desafio 061
 # Exercício 14.5
-# Refaça o Desafio 051, lendo o primeiro termo e a razão de uma Progressão Aritmétrica,
+# Refaça o Desafio 051 - Aula 13, lendo o primeiro termo e a razão de uma Progressão Aritmétrica,
 # mostrando os 10 primeiros termos da progressão usando a estrutura While.
 
 # Aula 14
 # Desafio 062
 # Exercício 14.6
 # Melhores o desafio 061, perguntando para o usuário se ele quer mostrar mais alguns termos.
-# O programa encerra quando ele disser que quer mostrar os termos.
+# O programa encerra quando ele disser que não quer mostrar os termos.
 
 # Aula 14
 # Desafio 063

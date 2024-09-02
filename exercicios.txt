@@ -395,10 +395,48 @@ Aula 15
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Aula 15
-# Desafio 0
-# Exercício 15.
-#
-#
+# Desafio 066
+# Exercício 15.1
+# Crie um programa que leia vário números inteiros pelo teclado. O programa só vai parar quando
+# o usuário digitar o valor 999, que é a condição de parada.
+# No final, mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando o flag).
+
+# Aula 15
+# Desafio 067
+# Exercício 15.2
+# Faça um programa que mostre a tabuada de vários números, um de cada vez, para cada valor digitado pelo usuário.
+# O programa será interrompido quando o número solicitado for negativo.
+
+# Aula 15
+# Desafio 068
+# Exercício 15.3
+# Faça um programa que jogue par ou ímpar com o computador. O jogo só será interrompido quando o jogador
+# PERDER, mostrando o total de vitórias consecutivas que ele conquistou no final do jogo.
+
+# Aula 15
+# Desafio 069
+# Exercício 15.4
+# Crie um programa que leia a idade e o sexo de várias pessoas. A cada pessoas cadastrada, o programa deverá
+# perguntar se o usuário quer ou não continuar. No final mostre:
+# A - Quantas pessoas tem mais de 18 anos.
+# B - Quantos homens foram cadastrados.
+# C - Quantas mulheres tem menos de 20 anos.
+
+# Aula 15
+# Desafio 070
+# Exercício 15.5
+# Crie um programa que leia o nome e o preço de vários produtos. O programa deverá perguntar
+# se o usuários vai continuar. No final, mostre:
+# A - Qual é o total gasto na compra.
+# B - Quanto produtos custam mais de R$ 1000
+# C - Qual é o nome do produto mais barato.
+
+# Aula 15
+# Desafio 071
+# Exercício 15.6
+# Crie um programa que simule o funcionamento de um caixa eletrônico. No início, pergunte ao usuário qual será
+# o valor sacado (int) e o programa vai informar quantas cédulas de cada valor serão entregues.
+# Obs.: considere que o caixa possui cédulas de R$ 50, R$ 20, R$ 10 e R$ 1.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Aula 16

@@ -439,11 +439,51 @@ Aula 15
 # Obs.: considere que o caixa possui cédulas de R$ 50, R$ 20, R$ 10 e R$ 1.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-Aula 16
+Aula 16 - Mundo 3
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Link: https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Aula 16
-# Desafio 0
-# Exercício 16.
-#
-#
+# Desafio 072
+# Exercício 16.1
+# Crie um programa que tenha uma tupla preenchida com uma contagem por extensão, de zero até vinte.
+# Seu programa deverá ler um número pelo teclado (entre 0 e 20) e mostrá-lo por extensão.
+
+# Aula 16
+# Desafio 073
+# Exercício 16.2
+# Crie uma tupla preenchida com os 20 primeiros colocados da tabela do Campeonato Brasileiro de Futebol,
+# na ordem de colocação. Depois mostre:
+# A - Apenas os 5 primeiros colocados.
+# B - Os 4 últimos colocados na tabela.
+# C - Uma lista com os times em ordem alfabética.
+# D - Em que posição na tabela está o time da Chapecoense.
+
+# Aula 16
+# Desafio 074
+# Exercício 16.3
+# Crie um programa que vai gerar cinco números aleatórios e colocar em uma tupla.
+# Depois disso, mostre a listagem de números gerados e também indique o menor e o maior valor
+# que estão na tupla.
+
+# Aula 16
+# Desafio 075
+# Exercício 16.4
+# Desenvolva um programa que leia quatro valores pelo teclado e guarde-os em uma tupla.
+# No final mostre:
+# A - Quantas vezes apareceu o valor 9.
+# B - Em que posição foi digitado o primeiro valor 3.
+# C - Quais fotam os números pares.
+
+# Aula 16
+# Desafio 076
+# Exercício 16.5
+# Crie um programa que tenha uma tupla única com nomes de produtos e seus respectivos preços, na sequência.
+# No final, mostre uma listagem de preços, organizando os dados em forma tabular.
+
+# Aula 16
+# Desafio 077
+# Exercício 16.6
+# Crie um programa que tenha uma tupla com várias palavras (não usar acentos).
+# Depois disso, você  deve mostrar, para cada palavra, quais são as suas vogais.

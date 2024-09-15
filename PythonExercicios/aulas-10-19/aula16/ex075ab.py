@@ -49,7 +49,9 @@ for n in range(len(lista)):
               print(f'{lista[n]}, ', end='') 
 
 numBuscaA = 9
-if lista.count(numBuscaA) > 0:
+if lista.count(numBuscaA) == 1:
+       print(f'\nO número {numBuscaA} apareceu {lista.count(numBuscaA)} vez na lista.')
+elif lista.count(numBuscaA) > 1:
        print(f'\nO número {numBuscaA} apareceu {lista.count(numBuscaA)} vezes na lista.')
 else:
        print(f'\nO número {numBuscaA} não foi inserido.')
